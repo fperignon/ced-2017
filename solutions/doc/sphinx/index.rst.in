@@ -1,0 +1,40 @@
+.. @PROJECT_NAME@ documentation master file, created by
+   sphinx-quickstart on Thu Sep 24 16:40:52 2015.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+@PROJECT_NAME@
+==============
+
+Une introduction à propos du projet, ...
+
+Pour créer une table des matieres:
+
+.. code::
+   
+   .. toctree::
+      :maxdepth: 2
+
+      manuel
+      python_ref
+      doxygen_ref
+
+avec une liste de noms de fichiers rst sans extension, pour obtenir:
+   
+.. toctree::
+   :maxdepth: 2
+
+   manuel
+   python_ref
+   doxygen_ref
+
+
+
+..
+   Indices and tables
+   ==================
+
+..   * :ref:`genindex`
+..   * :ref:`modindex`
+..   * :ref:`search`
+
