@@ -1,0 +1,9 @@
+image: ubuntu
+
+before_script:
+  - apt-get update -qq && apt-get install -y -qq cmake libboost-dev libfftw3-dev gfortran g++
+
+
+test:
+  stage: test
+  script: "sh ci/run_tests.sh"
