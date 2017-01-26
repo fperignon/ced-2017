@@ -1,0 +1,8 @@
+100103   Rufenacht   SWZ   2493   GM   568
+10362    Hamarat     OST   2630   GM   210
+130233   Bures       CZE   2427   IM   208
+130826   Kudela      CZE   2457   U    58
+130865   Nyvlt       CZE   2510   U    96
+130982   Lexa        CZE   2507   IM   62
+140688   Tsvetkov    RUS   2447   GM   222
+141166   Romanov     RUS   2523   SM   105
