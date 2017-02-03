@@ -37,7 +37,7 @@ int main(void)
   printArray(nelem, array1);
 
 /* Copy array1 to array2 */
-  array2 = array1a;
+  array2 = array1;
 
 /* Pass array2 to the function 'squareArray( )' */
   squareArray(nelem, array2);
